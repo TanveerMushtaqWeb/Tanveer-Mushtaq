@@ -1,0 +1,6 @@
+{
+  "name": "Tanveer Factory Cable",
+  "description": "Pakistan's premier manufacturer and supplier of heavy-duty motorcycle cables, industrial control wires, and OEM automotive control cables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
